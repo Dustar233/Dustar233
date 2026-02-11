@@ -8,10 +8,6 @@
 
 - 👯 I'm looking to collaborate on **Distibuted System or High concurrency project**
 
-- 📫 How to reach me **1046798065@qq.com**
-
-- 📝 I regularly write articles on **[https://Dustar233.github.io](https://Dustar233.github.io)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Dustar233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dustar233" height="30" width="40" /></a>
