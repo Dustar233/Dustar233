@@ -2,7 +2,7 @@
 
 ### A college student from Dalian Martime University.
 
-- 🔭 I'm currently working on **some courses from MIT and trying to build my own project**
+- 🔭 I'm currently working on **some courses from MIT and looking for a job QAQ**
 
 - 🌱 I'm currently learning **OS and Distibuted System**
 
