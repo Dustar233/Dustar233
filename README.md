@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Dustar233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dustar233" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Dustar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dustar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30471307/dustar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dustar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ptilopsis_suki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ptilopsis_suki" height="30" width="40" /></a>
 <a href="https://leetcode.com/Dustar233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dustar233" height="30" width="40" /></a>
 </p>
