@@ -2,11 +2,11 @@
 
 ### A college student from Dalian Martime University.
 
-- 🔭 I'm currently working on **some courses from MIT and looking for a job QAQ**
+- 🔭 I'm currently working on **some courses from MIT and trying getting better on some Go work**
 
-- 🌱 I'm currently learning **OS and Distibuted System**
+- 🌱 I'm currently learning **DB and backend developing**
 
-- 👯 I'm looking to collaborate on **Distibuted System or High concurrency project**
+- 👯 I'm looking to get into some open source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
