@@ -1,7 +1,5 @@
 # Hi 👋, I'm Dust
 
-### A college student from Dalian Martime University.
-
 - 🔭 I'm currently working on **some courses from MIT and trying getting better on some Go work**
 
 - 🌱 I'm currently learning **DB and backend developing**
